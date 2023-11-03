@@ -1,6 +1,6 @@
 Hola👻, I'm Binali 🍒
 
--✨I’m currently an undergraduate student at SLIIT.                   
+-✨I’m currently an undergraduate at SLIIT.                   
 -💕I’m currently learning Computer Systems and Networking.  
 -🖤I'm looking to collaborate on github.                                        
   ![th](https://user-images.githubusercontent.com/78370365/136234637-dedbd39b-80f0-4830-ab62-7c861f174571.jpg)
